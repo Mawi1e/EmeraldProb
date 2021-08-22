@@ -1,0 +1,4 @@
+Permutation -> 0
+Duplicate Permutation -> 100
+Combination -> Out of Bounds.
+Duplicate Combination -> Out of Bounds.
