@@ -24,7 +24,8 @@ BigInt mawile::Probability::Combination(unsigned int, unsigned int, bool)
 <br></br>
 # **Pictures**
 
-![]()
-![]()
+![](https://github.com/Mawi1e/EmeraldProb/blob/main/Pictures/1_1.PNG)
+![](https://github.com/Mawi1e/EmeraldProb/blob/main/Pictures/1_2.PNG)
+![](https://github.com/Mawi1e/EmeraldProb/blob/main/Pictures/1_3.PNG)
 
 <br></br>
